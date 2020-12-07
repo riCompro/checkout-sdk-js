@@ -26,6 +26,7 @@
 * [postalCode](addressrequestbody.md#postalcode)
 * [stateOrProvince](addressrequestbody.md#stateorprovince)
 * [stateOrProvinceCode](addressrequestbody.md#stateorprovincecode)
+* [shouldSaveAddress?](addressrequestbody.md#shouldSaveAddress?)
 
 ## Properties
 
@@ -98,3 +99,9 @@ ___
 ###  stateOrProvinceCode
 
 • **stateOrProvinceCode**: *string*
+
+___
+
+###  shouldSaveAddress?
+
+• **shouldSaveAddress?**: *boolean*
